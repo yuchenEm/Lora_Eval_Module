@@ -1,0 +1,17 @@
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:,,,,,,,
+Time:,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mil,,,,,,,
+,,,,,,,
+Designator,Center-X(mil),Center-Y(mil),Layer,Rotation,Comment,Footprint,Description
+M2,2632.500mil,4682.500mil,TopLayer,0,PCB Mounting Hole,PCB_Mounting_Hole,Mounting Hole
+M1,1697.500mil,4687.500mil,TopLayer,0,PCB Mounting Hole,PCB_Mounting_Hole,Mounting Hole
+U2,2160.000mil,4245.000mil,TopLayer,0,SX1278,SX1278_Ra-02-Lora_Module_Ai_Thinker,Footprint from Manufacturer
+U1,2172.640mil,3643.960mil,TopLayer,270,STM8L101,TSSOP-20_4.4x6.5mm_P0.65mm,4.4x6.5mm_P0.65mm
+R1,1905.000mil,3580.000mil,TopLayer,0,10KO,R0805,
+J1,2165.000mil,3380.000mil,BottomLayer,0,PinHeader_7Pin,PinHeader_7Pin-2.54mm,
+C1,1919.721mil,3682.954mil,TopLayer,0,100nF,C0603,
